@@ -33,6 +33,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="16dp"
         android:text="eat cookie"
-        android:textAllCaps="true"/>
+        android:textAllCaps="true"
+        android:onClick="eatCookie"/>
 
 </LinearLayout>
